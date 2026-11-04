@@ -1,0 +1,1 @@
+C:\Users\emili\Proyecto_SolParaTodos\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6a6c2y3z\obj\arm64-v8a
